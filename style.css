@@ -1,0 +1,41 @@
+.jub{
+    background-image: url(../images/dean-brierley-yQmVFYTKbzE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius:0px;
+    margin-bottom: 0px;
+    color:rgb(250, 236, 217);
+    height:90vh;
+    position: relative;
+}
+.icon{
+    font-size:50px;
+    font-weight:bolder;
+    color:blue;
+}
+.li{
+    font-size:20px;
+    font-weight:bolder;
+    margin-left:150px;
+    color:blue;
+}
+.first-part{
+    color:blue;
+    margin-top:180px;
+}
+.par{
+    font-size:20px;
+}
+.far{
+  background: azure;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border:3px solid black;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    padding: 50px;
+    font-size:70px;
+}
+
